@@ -1,6 +1,3 @@
 # chatserver
 
-Java Anwendung die in einem Docker
-Container läuft und mithilfe von Threads
-und Websockets Nachrichtenaustausch
-zwischen Klienten ermöglicht.
+A simple java based multi-client chatroom application built over a netty websocket implementation.
